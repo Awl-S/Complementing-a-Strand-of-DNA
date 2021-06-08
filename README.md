@@ -12,7 +12,7 @@ Because they dictate how bases from different strands interact with each other, 
 
 In light of Watson and Crick's model, the bonding of two complementary bases is called a base pair (bp). Therefore, the length of a DNA molecule will commonly be given in bp instead of nt. By complementarity, once we know the order of bases on one strand, we can immediately deduce the sequence of bases in the complementary strand. These bases will run in the opposite order to match the fact that the two strands of DNA run in opposite directions.
 
-Problem
+# Problem
 In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'.
 
 The reverse complement of a DNA string s is the string sc formed by reversing the symbols of s, then taking the complement of each symbol (e.g., the reverse complement of "GTCA" is "TGAC").
